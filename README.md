@@ -13,5 +13,5 @@
 - ✨My orientation :
   - Computer Vision, IoT
   - Embedded Programming
-- ⚡Fun fact: I like playing football, reading manga and looking pictures of cats and dogs !
+- ⚡Fun fact: I like playing football, reading manga and looking pictures of cats and dogs,Meow !
 </p>
