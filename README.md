@@ -4,7 +4,7 @@
 <h3>I am 3rd year student at Hanoi University of Science and Technology</h3>
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!--- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... -->
 - 🌱 I’m currently learning Smart Embedded System and IoT 
 - 🔭 I'm a member of Comvis Lab 
 - 📫 How to reach me:
