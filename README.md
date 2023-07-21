@@ -11,7 +11,7 @@
   - Facebook: https://www.facebook.com/gnurt1402
   - Linkedin: https://www.linkedin.com/in/trung-giap-thanh-b05731257
 - ✨My orientation :
-  - Computer Vision, IoT
+  - Computer Vision, Edge AI in IoT
   - Embedded Programming
 - ⚡Fun fact: I like playing football, reading manga and looking pictures of cats and dogs, ^^!
 </p>
