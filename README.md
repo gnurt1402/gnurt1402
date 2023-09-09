@@ -1,7 +1,7 @@
 <h2> Hi, I'm Thanh Trung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76112c0c8efe7703cf0c51be844480716313e72b10be&rid=giphy.gif" width="290">
 
-<h3>I am 3rd year student at Hanoi University of Science and Technology</h3>
+<h3>I am 4rd year student at Hanoi University of Science and Technology</h3>
 </em></p>
 
 <!--- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... -->
