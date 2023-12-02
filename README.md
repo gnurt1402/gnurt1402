@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Smart Embedded Systems and IoT 
 - 🔭 I'm a member of Comvis Lab 
 - 📫 How to reach me:
-  - Facebook: https://www.facebook.com/gnurt1402
-  - Linkedin: https://www.linkedin.com/in/trung-giap-thanh-b05731257
+  - Facebook: [Thanh Trung](https://www.facebook.com/gnurt1402)
+  - Linkedin: [Trung Giap Thanh](https://www.linkedin.com/in/trung-giap-thanh-b05731257)
 - ✨My orientation :
   - Computer Vision, Edge AI in IoT
   - Embedded Programming
