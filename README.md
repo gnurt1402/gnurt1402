@@ -9,7 +9,7 @@
 - 🔭 I'm a member of Comvis Lab 
 - 📫 How to reach me:
   - Facebook: [Thanh Trung](https://www.facebook.com/gnurt1402)
-  - Linkedin: [Trung Giap Thanh](https://www.linkedin.com/in/trung-giap-thanh-b05731257)
+  - Linkedin: [Trung Giap Thanh](https://www.linkedin.com/in/thanhtrung2041)
 - ✨My orientation :
   - Computer Vision, Edge AI in IoT
   - Embedded Programming
