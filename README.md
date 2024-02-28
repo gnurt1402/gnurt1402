@@ -12,6 +12,6 @@
   - Linkedin: [Trung Giap Thanh](https://www.linkedin.com/in/thanhtrung2041)
 - ✨My orientation :
   - Computer Vision, Edge AI in IoT
-  - Embedded Programming
+  - Embedded Systems
 - ⚡Fun fact: I like playing football, reading manga and looking pictures of cats and dogs, ^^!
 </p>
