@@ -5,8 +5,8 @@
 </em></p>
 
 <!--- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... -->
-- 🌱 I’m currently learning Smart Embedded Systems and IoT 
-- 🔭 I'm a member of ComVis Lab 
+- 🌱 I’m currently learning Smart Embedded Systems and IoT
+- 🔭 I'm a student researcher at [ComVis lab](https://comvis-hust.github.io/)
 - 📫 How to reach me:
   - Facebook: [Thanh Trung](https://www.facebook.com/gnurt1402)
   - Linkedin: [Trung Giap Thanh](https://www.linkedin.com/in/thanhtrung2041)
